@@ -13,5 +13,8 @@
 # Setuptools distribution folder.
 /dist/
 
+# Discard tensorboard
+/tensorboard
+
 # Python egg metadata, regenerated from source files by setuptools.
 /*.egg-info
